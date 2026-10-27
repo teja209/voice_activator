@@ -1,0 +1,5 @@
+Train: (107, 49, 10) | Val: (23, 49, 10) | Test: (23, 49, 10)
+Normalization stats -> mean: -2.7265, std: 12.7059  (SAVE THESE for on-device use)
+v2
+Train: (560, 49, 10) | Val: (120, 49, 10) | Test: (121, 49, 10)
+Normalization stats -> mean: -1.7538, std: 8.0205  (SAVE THESE for on-device use)
